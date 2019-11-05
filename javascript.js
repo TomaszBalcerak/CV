@@ -137,7 +137,6 @@ for (i = 0; i < acc.length; i++) {
       panel.style.maxHeight = panel.scrollHeight + "px";
     }
   });
-=======
 
 //efekt ruszającej się strzałki//
 //var arrow=document.getElementById("arrow");//
