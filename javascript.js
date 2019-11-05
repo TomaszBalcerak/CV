@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 //efekt ruszającej się strzałki//
 //var arrow=document.getElementById("arrow");//
 var $arrow = $("#arrow");
