@@ -277,5 +277,4 @@ for (i = 0; i < acc.length; i++) {
       panel.style.maxHeight = panel.scrollHeight + "px";
     }
   });
->>>>>>> b4ef33e7f2cb0e08370709f822ede042e9d11335
 }
