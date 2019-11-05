@@ -737,4 +737,19 @@ footer {
 	z-index:3;
 }
 }
+/*LANDSCAPE WIEV*/
+@media (orientation: landscape) and (max-width:750px){
+header img {
+		width:50vw;
+		left:0;
+	}
+hgroup {
+	top:15%;
+	right:20%;
+}
+footer {
+	position:relative;
+	z-index:3;
+}
+}
 /*KONIEC MEDIA QUERIES*/
