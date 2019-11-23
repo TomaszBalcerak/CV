@@ -251,6 +251,7 @@ p.date {
 	font-size:1.2em;
 	display:block;
 	text-align: left;
+	padding-right:5px;
 }
 .university-to-left {
 	text-align: left;
@@ -568,7 +569,9 @@ footer {
 	position:relative;
 	padding:10px 15px;
 	text-align: justify;
+	z-index:3;
 }
+
 /*POCZĄTEK MEDIA QUERIES*/
 @media(min-width: 530px) {
 	header img{
